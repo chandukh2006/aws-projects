@@ -23,7 +23,7 @@ This project simulates a real-world production environment where infrastructure 
 
 ## 📈 Project Architecture Diagram
 
-![AWS VPC Architecture](./architecture.png)
+![AWS VPC Architecture](./vpc.png)
 
 > (Upload your AWS Architecture image here and update the image path if needed.)
 
